@@ -42,24 +42,21 @@
 ---
 
 <h3 align="center">Recent Projects</h3>
-
 <table align="center" style="height: 100vh; width: 100%;">
     <tr>
         <td align="center" valign="top">
-          <a href="https://github.com/RobH0/ottergram">
-            <h4>Ottergram</h4>
-          </a> 
+          <h3><a href="https://github.com/RobH0/ottergram">Ottergram</a></h3>
           <a target="_blank" href="https://github.com/RobH0/ottergram">
             <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
           </a>
           <p>A Fullstack photo sharing web app.</p>
         </td>
         <td align="center" valign="top">
+          <h3><a href="https://github.com/RobH0/TrackCVEs">TrackCVEs</a></h3>
           <a href="https://github.com/RobH0/TrackCVEs">
-            <h4>TrackCVEs</h4>
             <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
-            <p>A Python script that helps maintain user's situational awareness of recently released CVEs.</p>
           </a>
+          <p>A Python script that helps maintain user's situational awareness of recently released CVEs.</p>
         </td>
     </tr>
 </table>
