@@ -7,11 +7,10 @@
   👨‍💻 Software Engineer who has a deep interest in Fullstack Web Development and Information Security.<br>
   🎓 Studied Computer Science (Information Security) at Royal Holloway, University of London.<br>
 </div>
-
 <br>
 
-
 ---
+
 <h3 align="center">🐱‍💻 Languages, Tools, and Tech</h3> 
 <br>
 <div align="center">
@@ -25,11 +24,48 @@
   <img  alt="Express.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   <img  alt="Nginx" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
   <img  alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img  vertical-align="baseline" alt="EJS" height="35px" width="110px" src="https://github.com/RobH0/RobH0/blob/main/EJS.png"/>
   <img  alt="Jira" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
 
+<table align="center" style="height: 10%; width: 90%;">
+    <tr>
+        <td align="center" valign="middle">
+          <img  vertical-align="baseline" alt="EJS" width="110px" src="https://github.com/RobH0/RobH0/blob/main/EJS.png"/>
+        </td>
+        <td align="center" valign="middle">
+          <img vertical-align="baseline" alt="ServiceNow" width="120px" src="https://github.com/RobH0/RobH0/blob/main/servicenow-large.png">
+        </td>
+    </tr>
+</table>
 <br>
+
+---
+
+<h3 align="center">Recent Projects</h3>
+
+<table align="center" style="height: 100vh; width: 100%;">
+    <tr>
+        <td align="center" valign="top">
+          <a href="https://github.com/RobH0/ottergram">
+            <h4>Ottergram</h4>
+          </a> 
+          <a target="_blank" href="https://github.com/RobH0/ottergram">
+            <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
+          </a>
+          <p>A Fullstack photo sharing web app.</p>
+        </td>
+        <td align="center" valign="top">
+          <a href="https://github.com/RobH0/TrackCVEs">
+            <h4>TrackCVEs</h4>
+            <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
+            <p>A Python script that helps maintain user's situational awareness of recently released CVEs.</p>
+          </a>
+        </td>
+    </tr>
+</table>
+
+
+
 <!-- 
 **RobH0/RobH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
