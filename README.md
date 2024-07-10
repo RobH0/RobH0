@@ -4,8 +4,8 @@
 </h1>
 <br>
 <div align="center">
-  👨‍💻 Software Engineer who has a deep interest in Fullstack Web Development and Information Security.<br>
-  🎓 Studied Computer Science (Information Security) at Royal Holloway, University of London.<br>
+  👨‍💻 Software Engineer interested in Fullstack Web Development and Information Security.<br>
+  🎓 BSc Computer Science (Information Security) from Royal Holloway, University of London.<br>
 </div>
 <br>
 
@@ -44,17 +44,17 @@
 <h3 align="center">Recent Projects</h3>
 <table align="center" style="height: 100vh; width: 100%;">
     <tr>
-        <td align="center" valign="top">
+        <td align="center" valign="top" width="50%">
           <h3><a href="https://github.com/RobH0/ottergram">Ottergram</a></h3>
           <a target="_blank" href="https://github.com/RobH0/ottergram">
             <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
           </a>
           <p>Fullstack photo sharing web app.</p>
         </td>
-        <td align="center" valign="top">
+        <td align="center" valign="top" width="50%">
           <h3><a href="https://github.com/RobH0/TrackCVEs">TrackCVEs</a></h3>
           <a href="https://github.com/RobH0/TrackCVEs">
-            <img alt="ottergram preview gif" src="https://github.com/RobH0/ottergram/blob/main/ottergram-preview.gif">
+            <img alt="ottergram preview gif" src="https://github.com/RobH0/RobH0/blob/main/cve.jfif">
           </a>
           <p>Python script that helps maintain user's situational awareness of recently released CVEs.</p>
         </td>
