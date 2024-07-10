@@ -1,4 +1,3 @@
-<!--## Hi, I'm Robert 👋-->
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Sans+serif&weight=700&size=30&letterSpacing=thin&duration=3500&pause=700&color=35DA5B&center=true&vCenter=true&random=false&width=500&height=50&lines=Hi+there+%F0%9F%91%8B;I'm+Robert;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
@@ -54,26 +53,9 @@
         <td align="center" valign="top" width="50%">
           <h3><a href="https://github.com/RobH0/TrackCVEs">TrackCVEs</a></h3>
           <a href="https://github.com/RobH0/TrackCVEs">
-            <img alt="ottergram preview gif" src="https://github.com/RobH0/RobH0/blob/main/cve.jfif">
+            <img alt="ottergram preview gif" src="https://github.com/RobH0/project-gifs/blob/main/TrackCVEs-preview.gif">
           </a>
           <p>Python script that helps maintain user's situational awareness of recently released CVEs.</p>
         </td>
     </tr>
 </table>
-
-
-
-<!-- 
-**RobH0/RobH0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
