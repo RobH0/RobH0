@@ -26,6 +26,7 @@
   <img  alt="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img  alt="Jira" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
   <img alt="Ollama" width="55px" src="https://github.com/RobH0/project-gifs/blob/main/ollama.png"/>
+  <img alt="Jest" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 </div>
 
 <table align="center" style="height: 10%; width: 90%;">
